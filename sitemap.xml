@@ -3,31 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gxk123.github.io/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-02-22T20:22:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-02-22T20:22:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/springboot/</loc>
+    <lastmod>2020-02-22T20:22:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/xiancheng/</loc>
     <lastmod>2020-02-22T19:53:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gxk123.github.io/post/</loc>
-    <lastmod>2020-02-22T19:53:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gxk123.github.io/post/xiancheng/</loc>
-    <lastmod>2020-02-22T19:53:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>http://example.org/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2020-02-22T18:27:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gxk123.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://gxk123.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
