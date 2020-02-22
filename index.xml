@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MrG</title>
+    <link>https://gxk123.github.io/</link>
+    <description>Recent content on MrG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 18:27:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://gxk123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>面试题</title>
+      <link>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Sat, 22 Feb 2020 18:27:18 +0800</pubDate>
+      
+      <guid>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description>Java基础面试题 1.面向对象的三个特征
+封装：将类的某些信息隐藏在类的内部，不允许外部程序直接访问。只能通过该类提供的 特定的方法 来实现对隐藏信息的操作和访问 继承：提高了代码的复用性，让类与类之间产生了关系 多态：父类引用或者接口的引用指向了自己的子类对象提高了程序的扩展性 2.接口的意义 接口是一种规范，可以快速的分离工作内容 3.抽象类的意义 把一些具有相同属性和方法的组件进行抽象更利于代码的维护和重用，当有新的类时只需要继承这个抽象类就可以获取相应的属性和方法 4.父类的静态方法能否被子类重写? 重写只能适用于实例方法.不能用于静态方法 5.java 创建对象的几种方式 5种 。new 关键字 ； class类的newinstance方法 ； Constructor类的newinstance方法；clone方法；使用反序列化；克隆 6.java中==和eqauls()的区别? == 对比的是两个对象的内存地址是否一样。Eqauls()比较两个对象的内容是否相等 7.&amp;amp; 和 &amp;amp;&amp;amp;的区别 &amp;amp;&amp;amp;具有短路功能，就是前者判断只要是falsae后面就不进行判断了 8.final,finalize()和finally{}的不同之处 final用于声明属性，方法和类，分别表示属性不可交变，方法不可覆盖，类不可继承。 finally是异常处理语句结构的一部分，表示总是执行。 finalize是Object类的一个方法，在垃圾收集器执行的时候会调用被回收对象的此方法，供垃圾收集时的其他资源回收，例如关闭文件等。
+9.int和Integer的区别? Integer是int的包装类，int则是java的一种基本数据类型 Integer变量必须实例化后才能使用，而int变量不需要 Integer实际是对象的引用，当new一个Integer时，实际上是生成一个指针指向此对象；而int则是直接存储数据值 。 Integer的默认值是null，int的默认值是0
+10.String,StringBuffer和StringBuilder区别? String底层使用的是final类只能存放不可以改变的字符，StringBuffer线程安全速度慢，StringBuilder线程不安全，速度快 11.String和StringBuffer的区别? 12. StringBuffer和StringBuilder 转发和重定向的区别 1、请求次数：重定向是浏览器向服务器发送一个请求并收到响应后再次向一个新地址发出请求，转发是服务器收到请求后为了完成响应跳转到一个新的地址；重定向至少请求两次，转发请求一次； 2、地址栏不同：重定向地址栏会发生变化，转发地址栏不会发生变化； 3、是否共享数据：重定向两次请求不共享数据，转发一次请求共享数据（在request级别使用信息共享，使用重定向必然出错）； 4、跳转限制：重定向可以跳转到任意URL，转发只能跳转本站点资源； 5、发生行为不同：重定向是客户端行为，转发是服务器端行为； 2、进程,线程相关 1.说说进程,线程之间的区别? 进程是cpu资源分配的最小单位，线程是cpu调度的最小单位。 2.创建两种线程的方式?他们有什么区别? 继承thread类，实现runnable接口,区别，继承thread类之后不可以继承其它接口，实现简单 3.产生死锁的条件 （1） 互斥条件：一个资源每次只能被一个进程使用。（2） 请求与保持条件：一个进程因请求资源而阻塞时，对已获得的资源保持不放。（3） 不剥夺条件:进程已获得的资源，在末使用完之前，不能强行剥夺。（4） 循环等待条件:若干进程之间形成一种头尾相接的循环等待资源关系。&amp;rdquo; 4. Thread 类中的start() 和 run() 方法有什么区别？ run()方法:在本线程内调用该Runnable对象的run()方法，可以重复多次调用； start()方法:启动一个线程，调用该Runnable对象的run()方法，不能多次启动一个线程； 4.什么是线程安全？Vector是一个线程安全类吗？ 如果你的代码所在的进程中有多个线程在同时运行，而这些线程可能会同时运行这段代码。 如果每次运行结果和单线程运行的结果是一样的，而且其他的变量的值也和预期的是一样的，就是线程安全的。 是 5.</description>
+    </item>
+    
+  </channel>
+</rss>
