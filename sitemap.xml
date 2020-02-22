@@ -3,36 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-02-22T20:53:48+08:00</lastmod>
+    <loc>https://gxk123.github.io/</loc>
+    <lastmod>2020-02-22T21:36:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2020-02-22T20:53:48+08:00</lastmod>
+    <loc>https://gxk123.github.io/post/</loc>
+    <lastmod>2020-02-22T21:36:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/springboot/</loc>
-    <lastmod>2020-02-22T20:53:48+08:00</lastmod>
+    <loc>https://gxk123.github.io/post/newblog/</loc>
+    <lastmod>2020-02-22T21:36:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/xiancheng/</loc>
+    <loc>https://gxk123.github.io/post/springboot/</loc>
+    <lastmod>2020-02-22T20:22:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gxk123.github.io/post/xiancheng/</loc>
     <lastmod>2020-02-22T19:53:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2020-02-22T18:27:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gxk123.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://gxk123.github.io/tags/</loc>
   </url>
   
 </urlset>

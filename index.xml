@@ -2,21 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MrG</title>
-    <link>http://example.org/</link>
+    <link>https://gxk123.github.io/</link>
     <description>Recent content on MrG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 20:53:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 21:36:09 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gxk123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Springboot简单理解</title>
-      <link>http://example.org/post/springboot/</link>
-      <pubDate>Sat, 22 Feb 2020 20:53:48 +0800</pubDate>
+      <title>Springboot简单介绍</title>
+      <link>https://gxk123.github.io/post/newblog/</link>
+      <pubDate>Sat, 22 Feb 2020 21:36:09 +0800</pubDate>
       
-      <guid>http://example.org/post/springboot/</guid>
+      <guid>https://gxk123.github.io/post/newblog/</guid>
+      <description>Springboot入门介绍
+一、Spring框架概述
+1.1 什么是Spring
+Spring是一个开源框架，Spring是于2003 年兴起的一个轻量级的Java 开发框架，由Rod Johnson 在其著作《Expert One-On-One J2EE Development and Design》。Spring是为了解决企业级应用开发的复杂性而创建的，使用Spring可以让简单的JavaBean实现之前只有EJB才能完成的事情。但是Spring不仅仅局限于服务器端开发，任何Java应用都能在简单性、可测试性和松耦合性等方面从Spring中获益。
+1.2 Spring是如何简化Java开发的
+为了降低Java开发的复杂性，Spring采用了以下4种关键策略：
+1、基于POJO的轻量级和最小侵入性编程；
+2、通过依赖注入（DI）和面向接口实现松耦合；
+3、基于切面（AOP）和惯例进行声明式编程；
+4、通过切面和模版减少样式代码；
+ 二、SpringBoot简介
+2.1什么是SpringBoot
+Spring Boot 是所有基于 Spring 开发的项目的起点。Spring Boot 的设计是为了让你尽可能快的跑起来 Spring 应用程序并且尽可能减少你的配置文件。简单来说就是SpringBoot其实不是什么新的框架，它默认配置了很多框架的使用方式，就像maven整合了所有的jar包，spring boot整合了所有的框架（不知道这样比喻是否合适）。
+2.2、SpringBoot四个主要特性
+1、SpringBoot Starter：他将常用的依赖分组进行了整合，将其合并到一个依赖中，这样就可以一次性添加到项目的Maven或Gradle构建中；
+2、自动配置：SpringBoot的自动配置特性利用了Spring4对条件化配置的支持，合理地推测应用所需的bean并自动化配置他们；
+3、命令行接口：（Command-line-interface, CLI）：SpringBoot的CLI发挥了Groovy编程语言的优势，并结合自动配置进一步简化Spring应用的开发；
+4、Actuatir：它为SpringBoot应用的所有特性构建一个小型的应用程序。但首先，我们快速了解每项特性，更好的体验他们如何简化Spring编程模型。
+2.3 SpringBoot开发的具体好处
+回顾我们之前的 SSM 项目，搭建过程还是比较繁琐的，需要：
+1、配置web.xml，加载spring和spring mvc
+2、配置数据库连接、配置spring事务
+3、配置加载配置文件的读取，开启注解
+。。。
+配置完成之后部署tomcat 调试
+而使用 Spring Boot 来开发项目则只需要非常少的几个配置就可以搭建起来一个 Web 项目，并且利用 IDEA 可以自动生成生成，这简直是太爽了&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Springboot简单介绍</title>
+      <link>https://gxk123.github.io/post/springboot/</link>
+      <pubDate>Sat, 22 Feb 2020 20:22:24 +0800</pubDate>
+      
+      <guid>https://gxk123.github.io/post/springboot/</guid>
       <description>Springboot入门介绍
 一、Spring框架概述
 1.1 什么是Spring
@@ -47,10 +81,10 @@ Spring Boot 是所有基于 Spring 开发的项目的起点。Spring Boot 的设
     
     <item>
       <title>多线程</title>
-      <link>http://example.org/post/xiancheng/</link>
+      <link>https://gxk123.github.io/post/xiancheng/</link>
       <pubDate>Sat, 22 Feb 2020 19:53:01 +0800</pubDate>
       
-      <guid>http://example.org/post/xiancheng/</guid>
+      <guid>https://gxk123.github.io/post/xiancheng/</guid>
       <description>多线程 线程与进程的区别 线程池 前台线程和后台线程的区别 线程同步 lock 多线程信号量 开启一个异步线程的几种方式？多线程编程时的注意事项？ 线程交替打印奇偶数 await async 线程与进程的区别 线程(Thread)与进程（Process）二者都定义了某种边界，不同的是进程定义的是应用程序与应用程序之间的边界，不同的进程之间不能共享代码和数据空间，而线程定义的是代码执行堆栈和执行上下文的边界。一个进程可以包括若干个线程，同时创建多个线程来完成某项任务，便是多线程。而同一进程中的不同线程共享代码和数据空间。用一个比喻来说，如果一个家庭代表一个进程，在家庭内部，各个成员就是线程，家庭中的每个成员都有义务对家庭的财富进行积累，同时也有权利对家庭财富进行消费，当面对一个任务的时候，家庭也可以派出几个成员来协同完成，而家庭之外的人则没有办法直接消费不属于自己家庭的财产。
 线程池 线程池的使用是非常简单的，如下面的代码，把需要执行的代码提交到线程池，线程池内部会安排一个空闲的线程来执行你的代码，完全不用管理内部是如何进行线程调度的。 优点：减小线程创建和销毁的开销，可以复用线程；也从而减少了线程上下文切换的性能损失；在GC回收时，较少的线程更有利于GC的回收效率。缺点：线程池无法对一个线程有更多的精确的控制，如了解其运行状态等；不能设置线程的优先级；加入到线程池的任务（方法）不能有返回值；对于需要长期运行的任务就不适合线程池。
 前台线程和后台线程的区别 应用程序必须运行完所有的前台线程才可以退出，或者主动结束前台线程，不管后台线程是否还在运行，应用程序都会结束；对于后台线程，应用程序则不考虑是否已经运行完毕而直接退出，所以的后台线程在应用程序退出时自动结束。 通过将Thread.isBackground设置为True，就可以将线程指定为后台线程，主线程就是一个前台线程
@@ -66,10 +100,10 @@ Semaphore常用的方法有两个WaitOne()和Release()， Release()的作用是�
     
     <item>
       <title>面试题</title>
-      <link>http://example.org/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <link>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
       <pubDate>Sat, 22 Feb 2020 18:27:18 +0800</pubDate>
       
-      <guid>http://example.org/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <guid>https://gxk123.github.io/post/%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
       <description>Java基础面试题 1.面向对象的三个特征
 封装：将类的某些信息隐藏在类的内部，不允许外部程序直接访问。只能通过该类提供的 特定的方法 来实现对隐藏信息的操作和访问 继承：提高了代码的复用性，让类与类之间产生了关系 多态：父类引用或者接口的引用指向了自己的子类对象提高了程序的扩展性 2.接口的意义 接口是一种规范，可以快速的分离工作内容 3.抽象类的意义 把一些具有相同属性和方法的组件进行抽象更利于代码的维护和重用，当有新的类时只需要继承这个抽象类就可以获取相应的属性和方法 4.父类的静态方法能否被子类重写? 重写只能适用于实例方法.不能用于静态方法 5.java 创建对象的几种方式 5种 。new 关键字 ； class类的newinstance方法 ； Constructor类的newinstance方法；clone方法；使用反序列化；克隆 6.java中==和eqauls()的区别? == 对比的是两个对象的内存地址是否一样。Eqauls()比较两个对象的内容是否相等 7.&amp;amp; 和 &amp;amp;&amp;amp;的区别 &amp;amp;&amp;amp;具有短路功能，就是前者判断只要是falsae后面就不进行判断了 8.final,finalize()和finally{}的不同之处 final用于声明属性，方法和类，分别表示属性不可交变，方法不可覆盖，类不可继承。 finally是异常处理语句结构的一部分，表示总是执行。 finalize是Object类的一个方法，在垃圾收集器执行的时候会调用被回收对象的此方法，供垃圾收集时的其他资源回收，例如关闭文件等。
 9.int和Integer的区别? Integer是int的包装类，int则是java的一种基本数据类型 Integer变量必须实例化后才能使用，而int变量不需要 Integer实际是对象的引用，当new一个Integer时，实际上是生成一个指针指向此对象；而int则是直接存储数据值 。 Integer的默认值是null，int的默认值是0
