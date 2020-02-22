@@ -6,15 +6,15 @@
     <description>Recent content in Posts on MrG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 20:22:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 20:53:48 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Springboot简单介绍</title>
+      <title>Springboot简单理解</title>
       <link>http://example.org/post/springboot/</link>
-      <pubDate>Sat, 22 Feb 2020 20:22:24 +0800</pubDate>
+      <pubDate>Sat, 22 Feb 2020 20:53:48 +0800</pubDate>
       
       <guid>http://example.org/post/springboot/</guid>
       <description>Springboot入门介绍
@@ -42,7 +42,7 @@ Spring Boot 是所有基于 Spring 开发的项目的起点。Spring Boot 的设
 3、配置加载配置文件的读取，开启注解
 。。。
 配置完成之后部署tomcat 调试
-而使用 Spring Boot 来开发项目则只需要非常少的几个配置就可以搭建起来一个 Web 项目，并且利用 IDEA 可以自动生成生成，这简直是太爽了&amp;hellip; ———————————————— 版权声明：本文为CSDN博主「baidu_33969289」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。 原文链接：https://blog.csdn.net/baidu_33969289/article/details/83589746</description>
+而使用 Spring Boot 来开发项目则只需要非常少的几个配置就可以搭建起来一个 Web 项目，并且利用 IDEA 可以自动生成生成，这简直是太爽了&amp;hellip;</description>
     </item>
     
     <item>
