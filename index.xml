@@ -6,10 +6,19 @@
     <description>Recent content on MrG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 21:36:09 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 21:59:26 +0800</lastBuildDate>
     
 	<atom:link href="https://gxk123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://gxk123.github.io/post/test/</link>
+      <pubDate>Sat, 22 Feb 2020 21:59:26 +0800</pubDate>
+      
+      <guid>https://gxk123.github.io/post/test/</guid>
+      <description>这是一个测试添加</description>
+    </item>
     
     <item>
       <title>Springboot简单介绍</title>
