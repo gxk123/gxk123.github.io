@@ -6,10 +6,19 @@
     <description>Recent content on MrG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 22:05:25 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 16:01:20 +0800</lastBuildDate>
     
 	<atom:link href="https://gxk123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于程序员的一些笑话</title>
+      <link>https://gxk123.github.io/post/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AC%91%E8%AF%9D/</link>
+      <pubDate>Sun, 23 Feb 2020 16:01:20 +0800</pubDate>
+      
+      <guid>https://gxk123.github.io/post/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%AC%91%E8%AF%9D/</guid>
+      <description>1、“咚咚咚”“谁？”过了很久……“Java” 2、换一个电灯泡需要几个程序员？一个也不要，这是硬件问题。 3、换一个电灯泡需要几个微软程序员？一个也不要，他们会把黑暗变成标准然后告诉每个人：“我们就是这么设计的。” 4、换一个电灯泡需要几个C++程序员？你还在用面向过程的思维考虑问题。一个设计良好的电灯泡类必然封装了换灯泡的方法，所以你要做的就是调用“换电灯泡”方法。 5、一个微软工程师正走在路上，突然听到一只青蛙说：“如果你吻我一下的话，我就会变成漂亮的女人，我们可以结婚，从此幸福地生活在一起。”工程师看着青蛙想了一下，抓起它轻轻地放在自己的上衣口袋里。青蛙把头伸出来说：“怎么，你不准备吻我吗？”“是的”，工程师说：“我在微软工作，没有时间娶妻——不过有一只会说话的青蛙还是挺酷的。” 6、Keyboard not found &amp;hellip; press F1 to continue 7、Unix是用户友好的，只是要成为Unix的用户很困难。 8、一百万只猴子，给他们一百万个键盘，其中的一个会写出Java程序，其它的写的都是Perl程序。 9、程序员给孩子取名：老大叫“灵灵”；老二叫“灵伊”；老三叫“伊灵”；老四叫“伊伊”；老五只能叫“忆初”了… 10、一个新手在试着修复一台坏了的LISP机器，他的方法就是反复关上电源然后打开。专家看到之后，严厉地批评说：“你这样是没用的，你必须要明白出错的深层次原因。” 专家关掉电源，然后打开。运行正常了。 11、老婆给当程序员的老公打电话：“下班顺路买一斤包子带回来，如果看到卖西瓜的，买一个。” 当晚，程序员老公手捧一个包子进了家门。。。 老婆怒道：“你怎么就买了一个包子？！” 老公答曰：“因为看到了卖西瓜的。” 12、两个程序员在聊天：“我昨天碰到个辣妹。我把她带回家，马上就开始如饥似渴地亲吻，她就坐在我的键盘上，然后……”“你在家里也有台电脑？CPU是什么型号的？”13、北京程序员xx遭遇车祸成植物人，医生说活下来希望只有万分之一，唤醒更为渺茫。他的Leader和亲人没放弃，他们根据xx视工作如命的作风，每天都在他身边念：“xx！IE6侧边栏又乱了，线上BUG啊！快起来改！”奇迹发生，xx醒来，第一句话：“我这是好的。” 14、一个程序员骑着一个很漂亮的自行车到了公司，另一个程序员看到了他，问到，“你是从哪搞到的这么漂亮的车的？” 骑车的那个程序员说，“我刚从那边过来，有一个漂亮的姑娘骑着这个车过来，并停在我跟前，把衣服全脱了，然后对我说，‘你想要什么都可以’”。另一个程序员马上说到，“你绝对做了一个正确的选择，因为那姑娘的衣服你并不一定穿得了”。 15、为什么程序员喜爱UNIX:unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep 16、程序员最讨厌康熙的哪个儿子？ 答：胤禩，因为他是八阿哥。 17、程序员A：“哥们儿，最近手头紧，借点钱？” 程序员B：“成啊，要多少？” 程序员A：“一千行不？” 程序员B：“咱俩谁跟谁！给你凑个整，这一千零二十四，拿去吧。” 18、A：你好，我是程序员。B：哦，程先生！A：客气了，叫我序员就好。 19、有两个程序员钓鱼，其中一个钓到一条美人鱼，这个美人鱼上半身是美女，下半身是鱼，于是这个程序员 就吧她放了，另一个问他：Why，他回答说：没有API。 20、有一个小伙子在一个办公大楼的门口抽着烟，一个妇女路过他身边，并对他说，“你知道不知道这个东西会危害你的健康？我是说，你有没有注意到香烟盒上的那个警告（Warning）？” 小伙子说，“没事儿，我是一个程序员”。 那妇女说，“这又怎样？” 程序员说，“我们从来不关心Warning，只关心Error” 21、一个年轻的程序员和一个产品经理登上了一列在山里行驶的火车，他们发现列车上几乎都坐满了，只有两个在一起的空位，这个空位的对面是一个老奶奶和一个年轻漂亮的姑娘。两个上前坐了下来。程序员和那个姑娘他们比较暧昧地相互看对方。这时，火车进入山洞，车厢里一片漆黑。此时，只听见一个亲嘴的声音，随后就听到一个响亮的巴掌声。很快火车出了山洞，他们四个人都不说话。那个老奶奶在喃喃道，“这个年轻小伙怎么这么无礼，不过我很高兴我的孙女扇了一个巴掌”。产品经理在想，“没想到这个程序员居然这么大胆，敢去亲那姑娘，只可惜那姑娘打错了人，居然给打了我。” 漂亮的姑娘想，“他亲了我真好，希望我的祖母没有打疼他”。 程序员坐在那里露出了笑容，“生活真好啊。这一辈子能有几次机会可以在亲一个美女的同时打产品一巴掌啊！” 22、程序猿最烦两件事，第一件事是别人要他给自己的代码写文档，第二件呢？是别人的程序没有留下文档。 23、程序员的读书历程：x 语言入门 —&amp;gt; x 语言应用实践 —&amp;gt; x 语言高阶编程 —&amp;gt; x 语言的科学与艺术 —&amp;gt; 编程之美 —&amp;gt; 编程之道 —&amp;gt; 编程之禅—&amp;gt; 颈椎病康复指南。 24、还没上大学的时候，高三暑假，跑到家那边的图书城想买传说中的C++的书，然后看到一本C#，我一看，嘿，这个++还写得挺艺术的，重叠起来了，于是把C#买了回来…… 25、有一天，程序猿们突然发现他们要涨的工资掉到井里啦！大家都很害怕，连忙一个吊着一个，从树上伸到井里去捞工资。正好他们摸到工资的时候，一个老程序员忽然兴奋的大叫：别蠢了，要涨的工资还好好的挂在天上呢！ 26、程序猿要了3个孩子，分别取名叫Ctrl、Alt 和Delete，如果他们不听话，程序猿就只要同时敲他们一下就会好的… 27、宪法顶个球！中国的法律都是.</description>
+    </item>
     
     <item>
       <title>添加的操作</title>
@@ -18,49 +27,6 @@
       
       <guid>https://gxk123.github.io/post/add/</guid>
       <description>&amp;mdash;&amp;ndash;根目录操作 1,创建新的文章md hugo new post/newblog.md 2,生成public文件 hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;quot;https://gxk123.github.io/&amp;rdquo; &amp;ndash;buildDrafts 3,git init git add . &amp;mdash;-以下是public下操作 4,git add -A 5,git commit -m &amp;ldquo;我的第二次提交&amp;rdquo; 6,git push -u origin master</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://gxk123.github.io/post/test/</link>
-      <pubDate>Sat, 22 Feb 2020 21:59:26 +0800</pubDate>
-      
-      <guid>https://gxk123.github.io/post/test/</guid>
-      <description>这是一个测试添加</description>
-    </item>
-    
-    <item>
-      <title>Springboot简单介绍</title>
-      <link>https://gxk123.github.io/post/newblog/</link>
-      <pubDate>Sat, 22 Feb 2020 21:36:09 +0800</pubDate>
-      
-      <guid>https://gxk123.github.io/post/newblog/</guid>
-      <description>Springboot入门介绍
-一、Spring框架概述
-1.1 什么是Spring
-Spring是一个开源框架，Spring是于2003 年兴起的一个轻量级的Java 开发框架，由Rod Johnson 在其著作《Expert One-On-One J2EE Development and Design》。Spring是为了解决企业级应用开发的复杂性而创建的，使用Spring可以让简单的JavaBean实现之前只有EJB才能完成的事情。但是Spring不仅仅局限于服务器端开发，任何Java应用都能在简单性、可测试性和松耦合性等方面从Spring中获益。
-1.2 Spring是如何简化Java开发的
-为了降低Java开发的复杂性，Spring采用了以下4种关键策略：
-1、基于POJO的轻量级和最小侵入性编程；
-2、通过依赖注入（DI）和面向接口实现松耦合；
-3、基于切面（AOP）和惯例进行声明式编程；
-4、通过切面和模版减少样式代码；
- 二、SpringBoot简介
-2.1什么是SpringBoot
-Spring Boot 是所有基于 Spring 开发的项目的起点。Spring Boot 的设计是为了让你尽可能快的跑起来 Spring 应用程序并且尽可能减少你的配置文件。简单来说就是SpringBoot其实不是什么新的框架，它默认配置了很多框架的使用方式，就像maven整合了所有的jar包，spring boot整合了所有的框架（不知道这样比喻是否合适）。
-2.2、SpringBoot四个主要特性
-1、SpringBoot Starter：他将常用的依赖分组进行了整合，将其合并到一个依赖中，这样就可以一次性添加到项目的Maven或Gradle构建中；
-2、自动配置：SpringBoot的自动配置特性利用了Spring4对条件化配置的支持，合理地推测应用所需的bean并自动化配置他们；
-3、命令行接口：（Command-line-interface, CLI）：SpringBoot的CLI发挥了Groovy编程语言的优势，并结合自动配置进一步简化Spring应用的开发；
-4、Actuatir：它为SpringBoot应用的所有特性构建一个小型的应用程序。但首先，我们快速了解每项特性，更好的体验他们如何简化Spring编程模型。
-2.3 SpringBoot开发的具体好处
-回顾我们之前的 SSM 项目，搭建过程还是比较繁琐的，需要：
-1、配置web.xml，加载spring和spring mvc
-2、配置数据库连接、配置spring事务
-3、配置加载配置文件的读取，开启注解
-。。。
-配置完成之后部署tomcat 调试
-而使用 Spring Boot 来开发项目则只需要非常少的几个配置就可以搭建起来一个 Web 项目，并且利用 IDEA 可以自动生成生成，这简直是太爽了&amp;hellip;</description>
     </item>
     
     <item>
